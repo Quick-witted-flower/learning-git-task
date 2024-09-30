@@ -1,8 +1,8 @@
 #program do zarządzania listą zakupów
 
 zakupy = {
-    "piekarnia": ["chleb", "pączek", "bułki"],
-    "warzywniak": ["marchew", "seler", "rukola"]
+    "piekarnia": ["chleb", "pączek", "bułki", "drożdzówki"],
+    "warzywniak": ["marchew", "seler", "rukola","jabłka"]
 }
 
 suma_produktów = 0
