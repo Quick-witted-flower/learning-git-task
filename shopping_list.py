@@ -15,6 +15,8 @@ for sklep, produkty in zakupy.items():
     suma_produktów += len(produkty_formatted)
 
 print(f"W sumie kupuję {suma_produktów} produktów.")
+print("Robienie listy zakupów jest dobrym nawykiem")
+
 
 
 
